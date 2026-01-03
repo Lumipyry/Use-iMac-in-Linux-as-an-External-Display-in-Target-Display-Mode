@@ -23,7 +23,7 @@ Without `rc.local` the machine boots first to Linux OS and pressing Powerbutton 
 
 ***
 
-1.Download smc_util to home directory (In the intended display machine)
+1.Download smc_util to home directory (`in the intended display machine`)
 ```
 git clone https://github.com/floe/smc_util.git
 ```
