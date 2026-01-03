@@ -6,7 +6,7 @@ This is a detailed step-by-step installation instruction for Florian Echtler's h
 
 By using this script you can use iMac in Linux as an External Display in Target Display Mode.
 
-Target Display Mode is set “on” and “off’ by pressing Powerbutton.
+Target Display Mode is set “**on**” and “off’ by pressing Powerbutton.
 
 Applicable with iMac models 2009 - 2014 https://support.apple.com/en-us/105126. Needs to have Apple High Sierra or earlier (Dual boot with Linux) in the machine which is used as external display.
 
@@ -20,7 +20,7 @@ NOTE: You may want to leave `rc.local` out of the installation (`Step 16`) - if 
 
 Without `rc.local` the machine boots first to Linux OS and pressing Powerbutton sets TDM on.
 
---------------------
+***
 
 1.Download smc_util to home directory (In the intended display machine)
 ```
