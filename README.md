@@ -2,7 +2,7 @@
 
 ######
 
-This is a detailed step-by-step installation instruction for Florian Echtler's https://github.com/floe/smc_util including Powerbutton support https://github.com/floe/smc_util/pulls by https://github.com/FreekMank .
+This is a detailed step-by-step installation instruction for Florian Echtler's [smc_util](https://github.com/floe/smc_util) including Powerbutton support https://github.com/floe/smc_util/pulls by https://github.com/FreekMank .
 
 By using this script you can use iMac in Linux as an External Display in Target Display Mode.
 
