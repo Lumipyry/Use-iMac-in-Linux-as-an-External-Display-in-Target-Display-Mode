@@ -1,4 +1,4 @@
-<img width="510" height="340" alt="target-display-mode3" src="https://github.com/user-attachments/assets/eef72173-3e8b-44b0-b0c7-486198486a29" />
+[<img width="510" height="340" alt="target-display-mode3" src="https://github.com/user-attachments/assets/eef72173-3e8b-44b0-b0c7-486198486a29" />](https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-target-display-mode-hero.jpg)
 
 ######
 
