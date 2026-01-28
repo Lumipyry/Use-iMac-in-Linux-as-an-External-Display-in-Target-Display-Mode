@@ -1,6 +1,6 @@
 ![imac-target-display-mode-hero](https://github.com/user-attachments/assets/f5948c13-a0b7-4bae-abd1-c50fb6f6df32)
 
-_Suomenkielinen versio osoitteessa [
+_In finnish - Suomenkielinen versio osoitteessa [
 iMac-Target-Display-Mode-Linuxissa
 ](https://github.com/Lumipyry/iMac-Target-Display-Mode-Linuxissa)_
 ######
